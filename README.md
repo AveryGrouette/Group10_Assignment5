@@ -13,6 +13,10 @@ This was the file that was given by UCI. The format of the data was managed in D
 For new_data.csv file:
 Column headers: Diagnosis, ID, Imaginary Min, Imaginary Real, Real Part Min, Real Part Average, Gender (1, 0), Age, Smoking (1, 2, 3)
 
+For clean_data.csv file:
+The column heaers are same as new_data.csv. It is the result of Data Precossing.
+
+
 Diangnosis: COPD, HC, Asthma, Infected
 Gender: 0 - Female, 1- Male
 Smoking: 1- Non-Smoker, 2- Ex Smoker, 3- Active Smoker
