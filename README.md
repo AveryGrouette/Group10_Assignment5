@@ -14,7 +14,7 @@ For new_data.csv file:
 Column headers: Diagnosis, ID, Imaginary Min, Imaginary Real, Real Part Min, Real Part Average, Gender (1, 0), Age, Smoking (1, 2, 3)
 
 For clean_data.csv file:
-The column headers are same as new_data.csv. It is the result of Data Preprocessing.
+The column headers are same as new_data.csv. It is the result of Data Pre-processing.
 
 
 Diangnosis: COPD, HC, Asthma, Infected
