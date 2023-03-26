@@ -1,6 +1,6 @@
 # Group10_Assignment5
 
-This si the nReadMe.txt for Assignment 5 GGE6505
+This is the nReadMe.txt for Assignment 5 GGE6505
 
 Group 10 consists of the following members:
 Avery Grouette
@@ -17,6 +17,6 @@ For clean_data.csv file:
 The column heaers are same as new_data.csv. It is the result of Data Precossing.
 
 
-Diangnosis: COPD, HC, Asthma, Infected
-Gender: 0 - Female, 1- Male
-Smoking: 1- Non-Smoker, 2- Ex Smoker, 3- Active Smoker
+- Diangnosis: COPD, HC, Asthma, Infected
+- Gender: 0 - Female, 1- Male
+- Smoking: 1- Non-Smoker, 2- Ex Smoker, 3- Active Smoker
